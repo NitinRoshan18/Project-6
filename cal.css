@@ -1,0 +1,23 @@
+.title{
+    margin-bottom: 10px;
+    text-align: center;
+    width: 210px;
+    color: Red;
+    border: 2px solid black;
+}
+
+input[type="button"]{
+    background-color: black;
+    color: azure;
+    width: 100%;
+    border: 2px solid black;
+}
+table{
+    border: 2px solid black;
+    
+}
+body{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
